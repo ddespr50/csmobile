@@ -1,0 +1,2 @@
+cd workspace;
+mkdir test;
