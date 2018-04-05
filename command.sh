@@ -4,3 +4,4 @@ mkdir movies
 mkdir pictures
 
 
+cat README.md
